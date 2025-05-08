@@ -1,8 +1,8 @@
 # 👋 Hey there!
 
-Unluckily I lost commit history for my last 2 years, since I was forced to use another account for all my commits. Getting back to this one with full power.
-
 I'm a passionate backend developer who thrives in the world of JVM languages and cloud-native solutions. Currently working with **Java**, **Kotlin**, **Spring Boot**, **Kubernetes**, and **AWS**.
+
+Unluckily I lost commit history for my last 2 years, since I was forced to use another account for all my commits. Getting back to this one with full power.
 
 ---
 
