@@ -1,37 +1,28 @@
-# 👋 Hey there!
+I’m a backend engineer who loves building real systems—especially where AI meets healthcare. My comfort zone is JVM ecosystems, cloud-native architecture, and stitching together complex services that actually ship.
 
-I'm a passionate backend developer who thrives in the world of JVM languages and cloud-native solutions. Currently working with **Java**, **Kotlin**, **Spring Boot**, **Kubernetes**, and **AWS**.
+## 💼 What I Build
 
-Unluckily I lost commit history for my last 2 years, since I was forced by the client to use another account for all my commits. Getting back to this one with full power.
+⚙️ JVM ecosystems: Java & Kotlin
+🚀 Distributed systems & microservices with Spring Boot
+☁️ Cloud-native platforms on AWS
+📦 Containers & orchestration with Kubernetes
+🧠 AI-powered backends and data pipelines
 
----
+## 🤖 AI & Applied Intelligence
 
-## 💼 What I Do for a Living
-- ⚙️ JVM Languages: **Java** & **Kotlin**
-- 🚀 Microservices with **Spring Boot**
-- ☁️ Cloud-native development on **AWS**
-- 📦 Containerized environments with **Kubernetes**
+I’m actively building with modern AI stacks, with a strong interest in healthcare use cases (decision support, automation, data enrichment, clinical workflows):
 
----
+🧠 LLMs (OpenAI, open-source models)
+🔗 LangChain for orchestration
+🧭 LangGraph for agentic workflows
+📊 Vector databases & embeddings
+🧪 Prompt engineering, RAG pipelines, and AI system design
+🏥 Integrating AI into healthcare-adjacent systems responsibly
 
-## 🎯 2025 Goals
-This year, I'm expanding to the frontend world:
+## 🧠 Side Projects & Geekery
 
-- 🔥 Mastering **Vue.js**
-- ⚛️ Diving deep into **React**
+When I’m not working, I’m still building:
 
----
-
-## 🧠 Hobbies & Geeky Stuff
-When I'm not coding for work, I love:
-
-- 🧑‍💻 Ethical hacking & security tinkering
-- 🏠 Smart home automation with **Home Assistant**
-- 📡 Working with embedded devices: **ESP32**, **Raspberry Pi**
-
----
-
-## 📈 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mejmo)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mejmo&layout=compact&theme=tokyonight)
+🛡️ Ethical hacking & security experiments
+🏠 Smart home automation with Home Assistant
+📡 Embedded systems & hardware tinkering: ESP32, Raspberry Pi
