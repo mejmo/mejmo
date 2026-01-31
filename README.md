@@ -26,3 +26,5 @@ When I’m not working, I’m still building:
 🛡️ Ethical hacking & security experiments
 🏠 Smart home automation with Home Assistant
 📡 Embedded systems & hardware tinkering: ESP32, Raspberry Pi
+
+[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mejmo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](Stats)
