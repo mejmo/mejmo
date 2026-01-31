@@ -21,7 +21,6 @@ I’m actively building with modern AI stacks, with a strong interest in healthc
 🧪 Prompt engineering, RAG pipelines, and AI system design
 🏥 Integrating AI into healthcare-adjacent systems responsibly<
 ```
-
 ## 🧠 Side Projects & Geekery
 
 When I’m not working, I’m still building:
